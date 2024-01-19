@@ -30,3 +30,7 @@ Go to Meal
 |Name Of the Book|Reason                                                          |Author  |
 |----------------|----------------------------------------------------------------|--------|
 |ACOTAR series   |A rich and immersive fantasy world filled with magical creatures|Sarah   |
+----
+
+> "The only way to do great work is to love what you do."  ***Steve Jobs***
+> "The only limit to our realization of tomorrow will be our doubts of today." ***Franklin D. Roosevelt***

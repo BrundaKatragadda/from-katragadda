@@ -19,3 +19,14 @@ Go to Meal
 * Parliament
 
 ![My Info](MyMedia.md)
+----
+|Name Of the Book|Author  |
+|----------------|--------|
+|ACOTAR series   |Sarah   |
+|Twisted games   |AnaHuang|
+|Sinner series   |Michelle|
+|God of fury     |Rinakent|
+
+|Name Of the Book|Reason                                                          |Author  |
+|----------------|----------------------------------------------------------------|--------|
+|ACOTAR series   |A rich and immersive fantasy world filled with magical creatures|Sarah   |

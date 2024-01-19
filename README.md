@@ -17,3 +17,5 @@ Go to Meal
 * Red Fort
 * India Gate
 * Parliament
+
+![My Info](MyMedia.md)

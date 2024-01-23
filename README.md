@@ -35,3 +35,16 @@ Go to Meal
 > "The only way to do great work is to love what you do."  ***Steve Jobs***
 
 > "The only limit to our realization of tomorrow will be our doubts of today." ***Franklin D. Roosevelt***
+
+----
+```
+def merge(*args, missing_val = None):
+  max_length = max([len(lst) for lst in args])
+  out_list = []
+
+  for i in range(max_length):
+    out_list.append([args[k][i] if i < len(args[k]) else missing_val for k in range(len(args))])
+
+  return out_list
+```
+

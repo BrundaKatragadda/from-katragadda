@@ -51,6 +51,6 @@ def merge(*args, missing_val = None):
 
   return out_list
 ```
-Python Code Snippet<https://code.pieces.app/collections/python>
+Python Code Snippet : <https://code.pieces.app/collections/python>
 
 

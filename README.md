@@ -37,6 +37,10 @@ Go to Meal
 > "The only limit to our realization of tomorrow will be our doubts of today." ***Franklin D. Roosevelt***
 
 ----
+## CODE FENCING
+
+In Python, you can merge a series of lists into a list of lists using the append() method.This will result in a list of lists where each individual list from the series is a sub-list in the merged list.For example, [1, 2, 3] and [4, 5, 6] would merge into [[1, 2, 3], [4, 5, 6]].
+
 ```
 def merge(*args, missing_val = None):
   max_length = max([len(lst) for lst in args])
@@ -47,4 +51,6 @@ def merge(*args, missing_val = None):
 
   return out_list
 ```
+Python Code Snippet<https://code.pieces.app/collections/python>
+
 

@@ -7,4 +7,4 @@ The Real Platform 9¾:
 
 The iconic Platform 9¾ at King's Cross Station in London is a real location. It's a departure point for the Hogwarts Express, and there's even a sign and a trolley disappearing into the wall for fans to pose with.
 
-! [My Image] (https://github.com/BrundaKatragadda/from-katragadda/blob/main/My%20image.jpeg)
+![My Image](https://github.com/BrundaKatragadda/from-katragadda/blob/main/My%20image.jpeg)
